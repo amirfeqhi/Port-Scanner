@@ -1,0 +1,4 @@
+ip : 47.75.39.84
+port : 8080	state : filtered
+ip : 34.213.199.191
+port : 80	state : open
