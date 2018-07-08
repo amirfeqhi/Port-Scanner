@@ -1,4 +1,6 @@
 # Port-Scanner
+[![Build Status](https://travis-ci.com/amirfeqhi/Port-Scanner.svg?branch=master)](https://travis-ci.com/amirfeqhi/Port-Scanner)
+
 It's a program for checking the state of a port
 
 ## How to use
